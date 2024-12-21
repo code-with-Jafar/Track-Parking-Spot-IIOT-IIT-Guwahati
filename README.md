@@ -46,11 +46,11 @@ Overview The Track Parking Spot project uses four ultrasonic sensors to monitor 
    - Echo Pins: D7, D8, D9, D10
 ### Hardware view 1
 
-[![hardware_view1](https://github.com/prkshdas/Track-Parking-Spot-IIoT-IIT-Guwahati/blob/main/hardware_view1.jpg)]([link_url](https://github.com))
+[![hardware_view1](https://github.com/code-with-Jafar/Track-Parking-Spot-IIoT-IIT-Guwahati/blob/main/hardware_view1.jpg)]([link_url](https://github.com))
 
 ### Hardware view 2
 
-[![hardware_view2](https://github.com/prkshdas/Track-Parking-Spot-IIoT-IIT-Guwahati/blob/main/hardware_view2.jpg)]([link_url](https://github.com))
+[![hardware_view2](https://github.com/code-with-Jafar/Track-Parking-Spot-IIoT-IIT-Guwahati/blob/main/hardware_view2.jpg)]([link_url](https://github.com))
 
 # Software Setup:
 1. Arduino IDE:
@@ -67,16 +67,16 @@ Overview The Track Parking Spot project uses four ultrasonic sensors to monitor 
 # Website View:
 ### project_view1
 
-[![project_view1](https://github.com/prkshdas/Track-Parking-Spot-IIOT-IIT-Guwahati/blob/main/project_view1.jpg)]([link_url](https://github.com))
+[![project_view1](https://github.com/code-with-Jafar/Track-Parking-Spot-IIOT-IIT-Guwahati/blob/main/project_view1.jpg)]([link_url](https://github.com))
 
 ### project_view2
 
-[![project_view2](https://github.com/prkshdas/Track-Parking-Spot-IIOT-IIT-Guwahati/blob/main/project_view2.jpg)]([link_url](https://github.com))
+[![project_view2](https://github.com/code-with-Jafar/Track-Parking-Spot-IIOT-IIT-Guwahati/blob/main/project_view2.jpg)]([link_url](https://github.com))
 
 ### project_view3
 
-[![project_view3](https://github.com/prkshdas/Track-Parking-Spot-IIOT-IIT-Guwahati/blob/main/project_view3.jpg)]([link_url](https://github.com))
+[![project_view3](https://github.com/code-with-Jafar/Track-Parking-Spot-IIOT-IIT-Guwahati/blob/main/project_view3.jpg)]([link_url](https://github.com))
 
 ### project_database
 
-[![project_database](https://github.com/prkshdas/Track-Parking-Spot-IIOT-IIT-Guwahati/blob/main/project_database.png)]([link_url](https://github.com))
+[![project_database](https://github.com/code-with-Jafar/Track-Parking-Spot-IIOT-IIT-Guwahati/blob/main/project_database.png)]([link_url](https://github.com))
